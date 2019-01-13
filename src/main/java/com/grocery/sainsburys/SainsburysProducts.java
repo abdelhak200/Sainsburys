@@ -18,7 +18,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import com.grocery.sainsburys.module.Product;
 import com.grocery.sainsburys.module.Total;
 
-public class SainsburysProducts implements ISainsburysPrd{
+public class SainsburysProducts implements ISainsburysPrd {
 	
 	public final static Logger logger = Logger.getLogger(SainsburysProducts.class.getName());
 	

@@ -106,3 +106,8 @@
     "description" : "British Cherry & Strawberry Mixed Pack"
   } ]
 }
+2019-01-14 00:32:27 INFO  SainsburysProducts:97 - Client closed!
+2019-01-14 00:32:29 INFO  SainsburysProducts:131 - {
+  "total" : { },
+  "results" : [ ]
+}
